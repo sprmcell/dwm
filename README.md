@@ -7,6 +7,7 @@ my config of DWM, pretty basic, but it works
 ##### Rofi Support
 ##### Systray
 ##### Floating app fixes
+##### restart
 
 ## Installation Guide
 
