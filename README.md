@@ -20,7 +20,7 @@ git clone https://github.com/sprmcell/dwm
 ##### CD into it and run make, this requires the make package
 
 ```sh
-cd dwm/
+cd dwm/dwm/
 ```
 ```bash
 sudo make
