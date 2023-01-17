@@ -2,6 +2,9 @@
 
 my config of DWM, pretty basic, but it works
 
+# NOTE
+This is probably outdated, please check out my config repo [here](https://github.com/sprmcell/config)
+
 ## Changes?
 
 ##### Rofi Support
