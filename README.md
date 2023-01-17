@@ -7,7 +7,6 @@ my config of DWM, pretty basic, but it works
 ##### Rofi Support
 ##### Systray
 ##### Floating app fixes
-##### restart
 
 ## Installation Guide
 
@@ -20,7 +19,7 @@ git clone https://github.com/sprmcell/dwm
 ##### CD into it and run make, this requires the make package
 
 ```sh
-cd dwm/dwm/
+cd dwm/
 ```
 ```bash
 sudo make
